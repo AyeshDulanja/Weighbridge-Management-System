@@ -1,0 +1,18 @@
+c:\users\ayesh dulanja\documents\visual studio 2015\Projects\WB\WB\bin\Debug\WB.exe.config
+c:\users\ayesh dulanja\documents\visual studio 2015\Projects\WB\WB\bin\Debug\WB.exe
+c:\users\ayesh dulanja\documents\visual studio 2015\Projects\WB\WB\bin\Debug\WB.pdb
+c:\users\ayesh dulanja\documents\visual studio 2015\Projects\WB\WB\obj\Debug\WB.Properties.Resources.resources
+c:\users\ayesh dulanja\documents\visual studio 2015\Projects\WB\WB\obj\Debug\WB.csproj.GenerateResource.Cache
+c:\users\ayesh dulanja\documents\visual studio 2015\Projects\WB\WB\obj\Debug\WB.exe
+c:\users\ayesh dulanja\documents\visual studio 2015\Projects\WB\WB\obj\Debug\WB.pdb
+C:\Users\Ayesh Dulanja\Documents\Visual Studio 2015\Projects\WB\WB\obj\Debug\WB.login.resources
+C:\Users\Ayesh Dulanja\Documents\Visual Studio 2015\Projects\WB\WB\obj\Debug\WB.mainw.resources
+C:\Users\Ayesh Dulanja\Documents\Visual Studio 2015\Projects\WB\WB\obj\Debug\WB.home.resources
+C:\Users\Ayesh Dulanja\documents\visual studio 2015\Projects\WB\WB\obj\Debug\WB.stats.resources
+C:\Users\Ayesh Dulanja\documents\visual studio 2015\Projects\WB\WB\obj\Debug\WB.about.resources
+C:\Users\Ayesh Dulanja\documents\visual studio 2015\Projects\WB\WB\obj\Debug\WB.report.resources
+C:\Users\Ayesh Dulanja\documents\visual studio 2015\Projects\WB\WB\obj\Debug\WB.edit.resources
+C:\Users\Ayesh Dulanja\documents\visual studio 2015\Projects\WB\WB\obj\Debug\WB.StatUpdate.resources
+D:\BACKUP\පෙන්\WB2\WB\bin\Debug\WB.exe.config
+D:\BACKUP\පෙන්\WB2\WB\obj\Debug\WB.exe
+D:\BACKUP\පෙන්\WB2\WB\obj\Debug\WB.pdb
